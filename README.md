@@ -4,7 +4,7 @@ Submitted by: **Vanessa Balbuena**
 
 This web app: **For all musical lovers, this website is for you. Here are 10 musicals currently showing on broadway where you can easily view a description of the musical and navigate to their website**
 
-Time spent: **4** hours spent in total
+Time spent: **4-5** hours spent in total
 
 ## Required Features
 
